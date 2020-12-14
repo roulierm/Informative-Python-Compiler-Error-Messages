@@ -1,5 +1,8 @@
 # Informative-Python-Compiler-Error-Messages
 
+#A program to use StackOverflow.com submissions to supply a more informative 
+#compiler error message for the user, rather than the already present difficult python compiler's provided message.
+
 #In order to use this code first run the Traceback code, and when prompted write an erroneous code 
 
 #Next using the Tf-Idf and Cosine similarity method simply run the code, and lastly run the last method, Return Answers
